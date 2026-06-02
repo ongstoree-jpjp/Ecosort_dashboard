@@ -214,8 +214,8 @@ elif menu == "Galeri Sampah":
     )
 
     gambar = {
-        "Organik": "samples/organik.jpg",
-        "Anorganik": "samples/anorganik.jpg",
+        "Organik": "samples/Organik.jpg",
+        "Anorganik": "samples/Anorganik.jpg",
         "B3": "samples/B3.jpg"
     }
 
